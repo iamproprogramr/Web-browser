@@ -53,6 +53,8 @@ python web_browser.ipynb
 3. **URL Entry**: Enter the URL directly into the address bar to navigate to a specific website.
 ## OUTPUT
 
+![web browser](output.png)
+
 ## Code Overview
 
 The main components of the code include:
